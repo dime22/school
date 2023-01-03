@@ -1,0 +1,32 @@
+.parent{
+    width: 100%;
+    
+    border: 3px solid rgb(163, 41, 41);
+}
+
+.div1{
+    width: 20%;
+     height: 860px;
+      float: left;
+   
+
+}
+
+.div2{
+    margin-left: 20%;
+    height: 860px; 
+    border: 3px solid rgb(161, 49, 5);
+
+}
+.form{
+    border: 3px solid rgb(161, 49, 5);
+    height: 200px;
+
+}
+
+.table{
+    border: 3px solid rgb(70, 245, 172);
+    height: 300px;
+
+}
+

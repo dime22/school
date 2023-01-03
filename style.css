@@ -1,0 +1,35 @@
+.contact-box{
+    max-width: 850px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #fff;
+   
+    box-shadow: 0px 0px 19px 5px rgba(0, 0, 0, 0.19) ;
+}
+.container{
+    position: relative;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    width:100%;
+    height:100%;
+    padding: 20px 100px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    border: 2px solid yellow;
+    height: 100%;
+}  
+
+.flex-child:first-child {
+    margin-right: 20px;
+} 
+
